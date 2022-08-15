@@ -1,2 +1,2 @@
 # connector-hrea
-Odoo PrestaShop Connector
+Odoo Hrea Connector
