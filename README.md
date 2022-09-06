@@ -1,2 +1,2 @@
 # connector-hrea
-Odoo Hrea Connector
+Odoo - hREA Connector
